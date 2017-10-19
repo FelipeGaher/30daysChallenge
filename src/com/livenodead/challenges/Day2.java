@@ -1,7 +1,11 @@
 package com.livenodead.challenges;
 
 import java.util.Scanner;
-
+/**
+ * Day to Hacker Rank
+ * @author Felipe
+ *
+ */
 public class Day2 {
 
     private static final int ONE_HUNDRED_NUM = 100;
