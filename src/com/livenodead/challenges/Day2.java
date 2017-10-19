@@ -2,7 +2,7 @@ package com.livenodead.challenges;
 
 import java.util.Scanner;
 /**
- * Day to Hacker Rank
+ * Day 2 Hacker Rank
  * @author Felipe
  *
  */
