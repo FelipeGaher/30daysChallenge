@@ -1,6 +1,6 @@
 package com.livenodead.challenges;
 
-public class Day5 {
+public class Day05 {
 
 	public static void main(String[] args) {
 

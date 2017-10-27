@@ -2,7 +2,7 @@ package com.livenodead.challenges;
 
 import java.util.Scanner;
 
-public class Day4 {
+public class Day04 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

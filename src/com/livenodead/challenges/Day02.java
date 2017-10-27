@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Felipe
  *
  */
-public class Day2 {
+public class Day02 {
 
     private static final int ONE_HUNDRED_NUM = 100;
 
